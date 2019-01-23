@@ -31,7 +31,7 @@ In addition, for the exact geo locations for each airport, we used the dataset f
 * Which kind of flight delay is increasing and decreasing over the years?
 
 ### Research Findings:
-* Visualization 1 (Airport Traffic by geographic location) - The team started finding  the busiest airports based on the flight traffic and Atlanta, GA: Hartsfield-Jackson Atlanta International  is the busiest airport with highest total number of flights and  Owensboro, KY: Owensboro Daviess County Regional as the least busiest with lower flight traffic.Month by Month breakdown of the data with flights delayed less than 15 minutes  shows atlanta as the busiest airport that being said it has less percentage of delayed flights  and San Francisco has the highest percentage of delayed flights.  
+* Visualization 1 (Airport Traffic by geographic location) - This chart shows the busiest airports based on the flight traffic. We found that Atlanta, GA: Hartsfield-Jackson Atlanta International as the busiest airport with highest total number of flights and  Owensboro, KY: Owensboro Daviess County Regional as the least busiest with lower flight traffic. Month by Month breakdown of the data with flights delayed less than 15 minutes shows atlanta as the busiest airport that being said it has less percentage of delayed flights and San Francisco has the highest percentage of delayed flights.  
 
 ![page1](images/page1.jpg)
 
