@@ -32,11 +32,13 @@ In addition, for the exact geo locations for each airport, we used the dataset f
 
 ### Research Findings:
 * Visualization 1 (Airport Traffic by geographic location) - The team started finding  the busiest airports based on the flight traffic and Atlanta, GA: Hartsfield-Jackson Atlanta International  is the busiest airport with highest total number of flights and  Owensboro, KY: Owensboro Daviess County Regional as the least busiest with lower flight traffic.Month by Month breakdown of the data with flights delayed less than 15 minutes  shows atlanta as the busiest airport that being said it has less percentage of delayed flights  and San Francisco has the highest percentage of delayed flights.  
+
 ![page1](images/page1.jpg)
 
 * Visualization 2 (Arrival and departure delay by Airport and Route) – Both the charts show the number of flights and the routes round the year. The charts show the origin and destination airports and routes, which have the average delays. Some carriers and routes are excluded from the data since the number of flights operated by those airlines or on those routes was so few that any delays would not have a significant impact on the total average. It highlights the average arrival and departure delay rates for each route from any origin and destination airport. This visualization paints a picture of how some of United State's most popular airlines and routes stack up against each other in scheduling. The purpose of this dashboard is to show the number of flights through airports does not always correlate to higher average delays.
-![page2](images/page2.jpg)
-![page3](images/page3JPG.jpg)
+
+![page2](images/page2.JPG)
+![page3](images/page3JPG.JPG)
 
 * Visualization 3 
 (Airports Vs Delays): The first chart shows the highest delays pertaining to the top 10 airports. Chicago O’Hare (ORD) shows the highest delays for late aircraft delay with the total of 12231 hrs for the years 2013-2018, followed by Hartsfield -Jackson Atlanta Airport (ATL) with 11175 hrs .
