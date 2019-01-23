@@ -44,10 +44,12 @@ In addition, for the exact geo locations for each airport, we used the dataset f
 (Airports Vs Delays): The first chart shows the highest delays pertaining to the top 10 airports. Chicago O’Hare (ORD) shows the highest delays for late aircraft delay with the total of 12231 hrs for the years 2013-2018, followed by Hartsfield -Jackson Atlanta Airport (ATL) with 11175 hrs .
 (Carriers Vs Delays) : The second graph shows the highest delays caused by the carriers And the Oscar goes to SouthWest with 12470 hrs caused by weather, security, NAS, late aircraft, carrier delay with a close competitor being American Airlines.
 (Sankey Diagram): The curves with the most thickness shows the most delays, and as per the diagram we can see that the ORD airport has the most delays caused by late aircraft delay. And SouthWest with the most delays with late aircraft delay.
+
 ![page4](images/page4.JPG)
 
 * Visualization 4 (Airlines Performance): The first chart rates the airlines based on average arrival delay time for different years (2013-2018). For example, for 2018 based on average arrival delay time, Allegiant Air was the best airlines while southwest airlines came out to be the worst. 
 The second chart compares the airlines performance for top ten busiest airports in USA based on arrival delays. For instance, for Chicago O'Hare International airport if you don’t want to wait at the airport, fly with Virgin America Airlines.
+
 ![page5](images/page5.JPG)
 
 ### Future Scope:
