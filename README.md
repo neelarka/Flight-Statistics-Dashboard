@@ -16,9 +16,9 @@ The original dataset pertaining to flight delays (2013-2018) was downloaded from
 * Categorical variables: Airports, Carriers
 * Categorical variables with continuous values: Delay causes
 * Calculated continuous variables: Flight Delay (%), Avg Arrival delay, Avg Departure Delay
-https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp 
+  https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp 
 
 In addition, for the exact geo locations for each airport, we used the dataset from the following website.
-https://opendata.socrata.com/dataset/Airport-Codes-mapped-to-Latitude-Longitude-in-the-/rxrh-4cxm
+  https://opendata.socrata.com/dataset/Airport-Codes-mapped-to-Latitude-Longitude-in-the-/rxrh-4cxm
 
 
