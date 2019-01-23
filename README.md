@@ -1,5 +1,7 @@
 ## Flight-Statistics-Dashboard
 
+![flight](images/flight.png)
+
 ### TEAM MEMBERS:
 * Ananya Yetigadda
 * Gabriela Cantu
